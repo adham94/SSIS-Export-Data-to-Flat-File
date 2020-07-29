@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "FicoXMLExport", "FicoXMLExport\FicoXMLExport.dtproj", "{340E8382-65C0-462D-9CF4-EA881B9CC6F5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{340E8382-65C0-462D-9CF4-EA881B9CC6F5}.Development|Default.ActiveCfg = Development
+		{340E8382-65C0-462D-9CF4-EA881B9CC6F5}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5977DD40-EB27-4020-BBC4-A73C4B078B0A}
+	EndGlobalSection
+EndGlobal
